@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "693370392591",
+    "project_id": "fir-flutter-7df8d",
+    "storage_bucket": "fir-flutter-7df8d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693370392591:android:c53154823c0c0bdd98537a",
+        "android_client_info": {
+          "package_name": "id.rikisaraan.firebase_firestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693370392591-11d0g82a1vk252p7qtpir4rsvv9tnsr3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAITEQaiU_ghgwBUJGloprYlzeB6aZfv20"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "693370392591-11d0g82a1vk252p7qtpir4rsvv9tnsr3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693370392591:android:7ba6ef0f890499fa98537a",
+        "android_client_info": {
+          "package_name": "id.rizkysaraan.firebase_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693370392591-11d0g82a1vk252p7qtpir4rsvv9tnsr3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAITEQaiU_ghgwBUJGloprYlzeB6aZfv20"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "693370392591-11d0g82a1vk252p7qtpir4rsvv9tnsr3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
