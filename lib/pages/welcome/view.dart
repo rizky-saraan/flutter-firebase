@@ -9,11 +9,11 @@ class WelcomePage extends GetView<WelcomeController> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("First Page"),
+        title: Text("Welcome Page"),
       ),
       body: Center(
         child: Container(
-          child: Text("First Page"),
+          child: Text("Welcome Page"),
         ),
       ),
     );
