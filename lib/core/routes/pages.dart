@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import '../../pages/welcome/bindings.dart';
-import '../../pages/welcome/view.dart';
+import '../../pages/welcome/index.dart';
 import 'names.dart';
 
 class AppPages {
